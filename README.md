@@ -1,4 +1,4 @@
-<a href="https://paypal.me/efxtv"><img src="https://raw.githubusercontent.com/efxtv/Screenshot-linux/main/demo/screenshot-linux.png" alt="Paypal" width="840" height="497">
+<a href="https://uk2blogger.blogspot.com/2021/06/how-to-create-shortcut-for-selected.html"><img src="https://raw.githubusercontent.com/efxtv/Screenshot-linux/main/demo/Screenshot2.png" title="Click to visit blog" alt="Paypal" width="840" height="497">
 # Screenshot-linux
 Take screenshot in Linux using gnome-screenshot. A tool provides many ways to capture the screenshots in LInux.
   
